@@ -1,0 +1,19 @@
+.box{
+    border: 2px solid firebrick;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.btn2{
+    background-color: palevioletred;
+}
+.box-body{
+    border: 2px solid palegreen;
+    border-radius: 20px;
+    margin: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.btn{
+    background-color: brown;
+}
